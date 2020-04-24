@@ -1,6 +1,6 @@
 # Welcome to [Poolkeh](https://poolkeh.herokuapp.com/)
 
-### Poolkeh helps finds the fastest strategy to test the entire country for COVID-19 30 times faster
+### Poolkeh finds the fastest strategy to test the entire country for COVID-19 30 times faster
 
 
 
