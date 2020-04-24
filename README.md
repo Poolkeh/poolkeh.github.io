@@ -2,4 +2,4 @@
 
 Website: https://poolkeh.github.io/
 
-App: https://poolkeh.herokuapp.com/
+Online Tool: https://poolkeh.herokuapp.com/
