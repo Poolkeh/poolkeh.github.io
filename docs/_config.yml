@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+
+title: [QC-IL]
+description: [First Course in Quantum Computing in Hebrew]
+
+show_downloads: ["true"]
+# google_analytics: [Your Google Analytics tracking ID]
