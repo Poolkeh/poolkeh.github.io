@@ -1,6 +1,6 @@
 # Welcome to [Poolkeh](https://poolkeh.herokuapp.com/)
 
-## Poolkeh finds the fastest strategy for a nation-wide testing without Pipetting Gymnastics and brings life back to a new normal 30 times faster.
+## Poolkeh helps finds the fastest strategy to test the entire country for COVID-19 30 times faster
 
 
 
@@ -11,3 +11,4 @@ The App is at:
 
 
 [![Watch the video](https://i.imgur.com/GeYuCnd.png)](https://www.youtube.com/watch?v=bdOnsvsVUGE)
+
