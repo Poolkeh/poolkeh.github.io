@@ -1,7 +1,14 @@
 theme: jekyll-theme-minimal
 
-title: [QC-IL]
-description: [First Course in Quantum Computing in Hebrew]
+title: [Poolkeh]
+description: [Optimizing Test-Pooling for COVID-19]
 
-show_downloads: ["true"]
-# google_analytics: [Your Google Analytics tracking ID]
+
+[GOTO Poolkeh](https://poolkeh.herokuapp.com/)
+[https://poolkeh.herokuapp.com/](https://poolkeh.herokuapp.com/)
+
+
+[![Watch the video](https://imgur.com/GeYuCnd)](https://www.youtube.com/watch?v=5GIrsYVs71c)
+
+show_downloads: ["false"]
+#google_analytics: [Your Google Analytics tracking ID]
