@@ -13,5 +13,5 @@
 
 # Youtube Videos:
 1. What's Poolkeh https://www.youtube.com/watch?v=B62Ssu1dl8E
-2. The Poolkeh app: https://www.youtube.com/watch?v=bdOnsvsVUGE
+2. The Poolkeh app https://www.youtube.com/watch?v=bdOnsvsVUGE
 3. Poolkeh Pool Testing Weights Analogy: https://www.youtube.com/watch?v=79WN3xtIWCA
