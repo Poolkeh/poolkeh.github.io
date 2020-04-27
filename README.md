@@ -5,7 +5,7 @@
 
 
 
-### [GOTO Poolkeh Online Application](https://poolkeh.herokuapp.com/)
+### [The Poolkeh Online App Calculator](https://poolkeh.herokuapp.com/)
 
 
 [![](https://i.imgur.com/GeYuCnd.png)](https://poolkeh.herokuapp.com/)
