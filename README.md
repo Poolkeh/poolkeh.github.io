@@ -7,9 +7,11 @@
 
 ### [GOTO Poolkeh Online Application](https://poolkeh.herokuapp.com/)
 
-The App is at:
-[https://poolkeh.herokuapp.com/](https://poolkeh.herokuapp.com/)
+
+[![](https://i.imgur.com/GeYuCnd.png)](https://poolkeh.herokuapp.com/)
 
 
-[![Watch the video](https://i.imgur.com/GeYuCnd.png)](https://www.youtube.com/watch?v=bdOnsvsVUGE)
-
+# Youtube Videos:
+1. What's Poolkeh https://www.youtube.com/watch?v=B62Ssu1dl8E
+2. The Poolkeh app: https://www.youtube.com/watch?v=bdOnsvsVUGE
+3. Poolkeh Pool Testing Weights Analogy: https://www.youtube.com/watch?v=79WN3xtIWCA
