@@ -22,4 +22,4 @@
 
 Poolkeh Finds the Optimal Pooling Strategy for a Population-wide COVID-19 Testing (Israel, UK, and US as Test Cases)
 Yossi Eliaz, Mark Danovich, Gregory P Gasic
-[medRxiv 2020.04.25.20079343](https://www.medrxiv.org/content/10.1101/2020.04.25.20079343v1); doi: https://doi.org/10.1101/2020.04.25.20079343
+[medRxiv 2020.04.25.20079343](https://www.medrxiv.org/content/10.1101/2020.04.25.20079343v1); doi: [https://doi.org/10.1101/2020.04.25.20079343](https://doi.org/10.1101/2020.04.25.20079343)
