@@ -26,5 +26,5 @@
 > Yossi Eliaz, Mark Danovich, Gregory P Gasic
 > [medRxiv 2020.04.25.20079343](https://www.medrxiv.org/content/10.1101/2020.04.25.20079343v1); doi: [https://doi.org/10.1101/2020.04.25.20079343](https://doi.org/10.1101/2020.04.25.20079343)
 
-## Main Thread on Twitter
+## Main Thread on Twitter:
 [![](https://i.imgur.com/qHL1P3T.png)](https://twitter.com/sa501428/status/1256077333846536194)
